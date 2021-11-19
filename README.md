@@ -1,6 +1,4 @@
 <div align = "center">
-  <img width="750px" src="https://github.com/Biellms/ProjetoIntegrador-DeliveryC/blob/main/Documentação/BackGround.jpeg"/>
-  <hr>
   <h3>
   <b>Projeto Integrador / GoDonate</b></br></div>
   <div align = "center">
@@ -15,7 +13,7 @@
 <div align = "center">
   <p><b><h3>Fluxograma</b>
   <br><br>
-  <img width="750px" src="https://github.com/Biellms/ProjetoIntegrador-DeliveryC/blob/main/Documentação/Fluxograma%20P.I.jpg"/>
+  <img width="750px" src="https://github.com/GuilhermeRodriguesSantos/Gestor_Donativo/blob/main/Documentação/Fluxograma%20P.I.jpg"/>
   </div>
 <div>
   </div>
@@ -26,7 +24,7 @@
 </p>
   </div>
 
-<h3><a href="https://github.com/Biellms/ProjetoIntegrador-DeliveryC/tree/main/Documentação" target="_blank"><p target="blank">Documentação 📄</a></h3>
+<h3><a href="https://github.com/GuilhermeRodriguesSantos/Gestor_Donativo/tree/main/Documentação" target="_blank"><p target="blank">Documentação 📄</a></h3>
   
 <hr> 
   
